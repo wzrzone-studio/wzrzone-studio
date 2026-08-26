@@ -17,17 +17,3 @@
 [Linkedin](https://www.linkedin.com): Don't joined yet.
 
 [WeChat](https://www.wechat.com): Only support Chinese IP addresses. 
-
----
-
-## For IP addresses in China:
-
-[微信](https://weixin.qq.com): w469216011
-
-[微博](https://www.weibo.com): Don't have an account yet.
-
-[知乎](https://www.zhihu.com): Don't have an account yet.
-
-[抖音](https://www.douyin.com): Account deleted.
-
-[小红书](https://www.xiaohongshu.com): Account banned.
