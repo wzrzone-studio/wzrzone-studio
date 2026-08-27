@@ -1,19 +1,12 @@
-# Social Media Links
+# What's new
+
+> [!IMPORTANT]
+> Social media links will open in 2038.
+
+> [!WARNING]
+> This account will no longer active until 2038.
 
 ---
 
-[YouTube](https://www.youtube.com): Don't have a channel yet.
-
-[X](https://x.com): Don't have any posts yet.
-
-[Facebook](https://www.facebook.com): Don't have any profiles yet.
-
-[Instagram](https://www.instagram.com): Don't have any profiles yet.
-
-[Bluesky](https://bsky.app): Don't joined yet.
-
-[TikTok](https://www.tiktok.com): Don't have any accounts yet.
-
-[Linkedin](https://www.linkedin.com): Don't joined yet.
-
-[WeChat](https://www.wechat.com): Only support Chinese IP addresses. 
+> Why this happened?
+> My work will be busy, starts on Aug 30, 2026.
